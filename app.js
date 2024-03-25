@@ -39,7 +39,7 @@ async function checkWeather(city) {
     humidity.innerHTML = "Precipitación" + "<br>" + Math.floor(data.current.precipitation) + "%";
     wind.innerHTML = "Viento" + "<br>" + Math.floor(data.current.wind_speed_10m) + " Km/h";
 
-    card.style.height = '80vh';
+    card.style.height = '70vh';
 }
 
 
