@@ -61,7 +61,7 @@ body{
 
 .search img {
     height: 3.8vh;
-    padding-top: 1vh;
+    padding-top: 0.5vh;
 }
 
 .weather .wicon{
@@ -88,4 +88,8 @@ body{
 .degree {
     margin-top: 3px;
     margin-bottom: 0px;
+}
+
+.precipitacion, .wind {
+    margin-top: 2vh;
 }
