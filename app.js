@@ -43,7 +43,7 @@ async function checkWeather(city) {
 }
 
 
-card.style.height = '7vh';
+card.style.height = '5vh';
 
 inputButton.addEventListener('click', () => {
     checkWeather(inputBox.value);

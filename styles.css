@@ -20,7 +20,6 @@ body{
 }
 
 .card {
-    height: 60vh;
     display: flex;
     flex-direction: column;
     margin:auto;
