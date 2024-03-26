@@ -91,5 +91,9 @@ body{
 }
 
 .precipitacion, .wind {
-    margin-top: 2vh;
+    margin-top: 1vh;
+}
+
+input::placeholder {
+    font-size: 2vh;
 }
